@@ -1,13 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23A5B88E-3561-414D-9F25-FA9F2C8C5BB1}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{23A5B88E-3561-414D-9F25-FA9F2C8C5BB1}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{23A5B88E-3561-414D-9F25-FA9F2C8C5BB1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22A82D8A-2F67-47EC-8D37-665AFF311BC1}|..\\Class1th (Asymptotic Notation)\\Class1th (Asymptotic Notation).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Class1th (Asymptotic Notation)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,30 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Class1th (Asymptotic Notation)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class1th (Asymptotic Notation)\\Source.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Class1th (Asymptotic Notation)\\Source.cpp",
-              "RelativeToolTip": "..\\Class1th (Asymptotic Notation)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-12T10:41:49.764Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-12T09:12:20.88Z",
               "EditorCaption": ""

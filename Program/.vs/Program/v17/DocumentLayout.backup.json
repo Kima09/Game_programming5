@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23A5B88E-3561-414D-9F25-FA9F2C8C5BB1}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{23A5B88E-3561-414D-9F25-FA9F2C8C5BB1}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{23A5B88E-3561-414D-9F25-FA9F2C8C5BB1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDB1D6C-8DA9-4058-86BD-1CE25B662250}|..\\Class3rd (Double Sort)\\Class3rd (Double Sort).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class3rd (Double Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487D689B-F1EB-47A0-B8D9-E01263623455}|..\\Class2nd (Brute Force)\\Class2nd (Brute Force).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class2nd (Brute Force)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +20,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class3rd (Double Sort)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class3rd (Double Sort)\\Source.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class3rd (Double Sort)\\Source.cpp",
+              "RelativeToolTip": "..\\Class3rd (Double Sort)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T10:06:35.976Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class2nd (Brute Force)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class2nd (Brute Force)\\Source.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class2nd (Brute Force)\\Source.cpp",
+              "RelativeToolTip": "..\\Class2nd (Brute Force)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T10:15:11.713Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-12T09:12:20.88Z",
               "EditorCaption": ""

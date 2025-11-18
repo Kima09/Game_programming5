@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{23A5B88E-3561-414D-9F25-FA9F2C8C5BB1}|Program.vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{23A5B88E-3561-414D-9F25-FA9F2C8C5BB1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E72DD170-9111-4C05-878B-C29332ED8755}|..\\Class5th (Insert Sort)\\Class5th (Insert Sort).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class5th (Insert Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class5th (Insert Sort)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class5th (Insert Sort)\\Source.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class5th (Insert Sort)\\Source.cpp",
-              "RelativeToolTip": "..\\Class5th (Insert Sort)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-17T09:32:19.967Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-12T09:12:20.88Z",
               "EditorCaption": ""

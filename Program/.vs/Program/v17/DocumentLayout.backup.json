@@ -7,10 +7,7 @@
       "RelativeMoniker": "D:0:0:{23A5B88E-3561-414D-9F25-FA9F2C8C5BB1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9E6E3F-6CD7-421D-8FB2-6C24E699AA90}|..\\Class9th (Divide and Conquer)\\Class9th (Divide and Conquer).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class9th (Divide and Conquer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E931B34-5C76-4DF8-A04E-5C6ACE955C32}|..\\Class10th (Binary Search)\\Class10th (Binary Search).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class10th (Binary Search)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3DEFF367-5BB8-4A47-8004-4A0F5A0C44C9}|..\\Class11th (Quick Sort)\\Class11th (Quick Sort).vcxproj|C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class11th (Quick Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,32 +17,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class10th (Binary Search)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class10th (Binary Search)\\Source.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class10th (Binary Search)\\Source.cpp",
-              "RelativeToolTip": "..\\Class10th (Binary Search)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-20T09:10:45.393Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class9th (Divide and Conquer)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class9th (Divide and Conquer)\\Source.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class9th (Divide and Conquer)\\Source.cpp",
-              "RelativeToolTip": "..\\Class9th (Divide and Conquer)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class11th (Quick Sort)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class11th (Quick Sort)\\Source.cpp",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Class11th (Quick Sort)\\Source.cpp",
+              "RelativeToolTip": "..\\Class11th (Quick Sort)\\Source.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-19T09:45:34.324Z",
+              "WhenOpened": "2025-11-20T10:42:01.583Z",
               "EditorCaption": ""
             },
             {
@@ -54,9 +38,9 @@
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hkdav\\OneDrive\\Desktop\\Game_programming5\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-12T09:12:20.88Z",
               "EditorCaption": ""

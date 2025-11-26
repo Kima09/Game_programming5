@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class13th (Dynamic Programm
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class14th (Greedy)", "..\Class14th (Greedy)\Class14th (Greedy).vcxproj", "{E790E781-1DB2-436B-960F-C5EA021B3184}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class15th (Depth First Search)", "..\Class15th (Depth First Search)\Class15th (Depth First Search).vcxproj", "{8EF5B7AB-3912-4CC7-8D10-0774D1B85F49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{E790E781-1DB2-436B-960F-C5EA021B3184}.Release|x64.Build.0 = Release|x64
 		{E790E781-1DB2-436B-960F-C5EA021B3184}.Release|x86.ActiveCfg = Release|Win32
 		{E790E781-1DB2-436B-960F-C5EA021B3184}.Release|x86.Build.0 = Release|Win32
+		{8EF5B7AB-3912-4CC7-8D10-0774D1B85F49}.Debug|x64.ActiveCfg = Debug|x64
+		{8EF5B7AB-3912-4CC7-8D10-0774D1B85F49}.Debug|x64.Build.0 = Debug|x64
+		{8EF5B7AB-3912-4CC7-8D10-0774D1B85F49}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EF5B7AB-3912-4CC7-8D10-0774D1B85F49}.Debug|x86.Build.0 = Debug|Win32
+		{8EF5B7AB-3912-4CC7-8D10-0774D1B85F49}.Release|x64.ActiveCfg = Release|x64
+		{8EF5B7AB-3912-4CC7-8D10-0774D1B85F49}.Release|x64.Build.0 = Release|x64
+		{8EF5B7AB-3912-4CC7-8D10-0774D1B85F49}.Release|x86.ActiveCfg = Release|Win32
+		{8EF5B7AB-3912-4CC7-8D10-0774D1B85F49}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

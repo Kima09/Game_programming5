@@ -1,4 +1,6 @@
 ﻿#include <iostream>
+#include <queue>
+#include <unordered_set>
 #include <unordered_map>
 #include <vector>
 
@@ -9,30 +11,35 @@ class Graph
 {
 private:
 	unordered_map<T, vector<T>> adjacencyList;
-
+	unordered_map<T, int> degree;
 public:
 	void insert(const T& i, const T& j)
 	{
 		adjacencyList[i].push_back(j);
-		adjacencyList[j].push_back(i);
+		degree[j]++;
 	}
+	
 };
-
 
 int main()
 {
-#pragma region 너비 우선 탐색(Breadth First Search)
-	//하나의 시작 정점을 방문한 후 시작 정점에 인접한
-	//모든 정점들을 우선적으로 방문하는 탐색입니다.
+#pragma region 위상 정렬
+	//병합 그래프에 존재하는 각 정점들의 선행 순서를 지키며,
+	//모든 정점을 차례대로 진행하는 방식의 정렬입니다.
 
-	Graph<char> graph;
-	graph.insert('A', 'B');
-	graph.insert('A', 'C');
-	graph.insert('D', 'B');
-	graph.insert('E', 'B');
-	graph.insert('C', 'F');
-	graph.insert('G', 'C');
+	//사이클이 발생하는 경우 위상 정렬을 수행할 수 없습니다.
+
+	//DAG(Directed Acyclic Graph): 사이클이 존재하지
+	//않는 그래프
+
+	//시간 복잡도: O(V + E)
+	//위상 정렬하는 방법
+	//1. 진입 차수가 0인 정점을 큐에 삽입
+	//2. 큐에서 원소를 꺼내 연결된 모든 간선을 제거
+	//3. 간선 제거 이후 진입 차수가 0이 된 정점을 큐에 삽입
+	//4. 큐가 비어있을 때까지 2-3번 작업 반복
 #pragma endregion
+
 
 	return 0;
 }

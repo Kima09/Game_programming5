@@ -6,14 +6,14 @@ C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(7,9): warn
 C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(26,21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
       C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(26,21):
       템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-          C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(109,16):
+          C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(145,16):
           컴파일되는 클래스 템플릿 인스턴스화 'Dijkstra<int>'에 대한 참조를 확인하세요.
           C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(21,7):
           클래스 템플릿 멤버 함수 'void Dijkstra<int>::resize(int)'을(를) 컴파일하는 중입니다.
               C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(49,9):
               'Dijkstra<int>::insert'에서 'Dijkstra<int>::resize'에 대한 첫 번째 참조를 확인하세요.
-              C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(111,17):
+              C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(147,17):
               'main'에서 'Dijkstra<int>::insert'에 대한 첫 번째 참조를 확인하세요.
   
-C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(64,1): warning C4172: 지역 변수 또는 임시 : a의 주소를 반환하는 중
+C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\Program.cpp(67,1): warning C4172: 지역 변수 또는 임시 : a의 주소를 반환하는 중
   Program.vcxproj -> C:\Users\hkdav\OneDrive\Desktop\Game_programming5\Program\x64\Debug\Program.exe
